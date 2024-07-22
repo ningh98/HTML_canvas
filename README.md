@@ -2,7 +2,7 @@
 
 This is a 30-days javascript grinding  
 js30 [https://github.com/ningh98/js30]    
-7. html canvas [https://github.com/ningh98/js30_CSS-JS_Clock]
+7. html canvas [https://github.com/ningh98/HTML_canvas]
 
 ## Table of contents
 
